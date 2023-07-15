@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contact Details</string>
+    <string name="app_display">Gathering Contact Information </string>
+    <string name="app_display2">Contact Details</string>
+    <string name="app_contact_name">Enter contact name</string>
+    <string name="app_contact_phone_number">Enter phone number</string>
+    <string name="app_contact_email">Enter email address</string>
+    <string name="app_contact_address">Enter address</string>
+    <string name="app_contact_zip">Enter zip code</string>
+    <string name="app_contact_city">Enter city</string>
+    <string name="app_contact_country">Enter country</string>
+    <string name="app_contact_organization">Enter organization</string>
+    <string name="app_contact_profession">Enter profession</string>
+    <string name="app_btn">Submit</string>
+    <string name="app_contact_name1">Contact Name</string>
+    <string name="app_phone_number">Phone Number</string>
+    <string name="app_phone_email">Email Address</string>
+    <string name="app_postal_address">Postal Address</string>
+    <string name="app_zip_code">Zip code</string>
+    <string name="app_city">City</string>
+    <string name="app_country">Country</string>
+    <string name="app_organization">Organization</string>
+    <string name="app_profession">Profession</string>
+</resources>
